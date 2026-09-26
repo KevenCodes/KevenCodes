@@ -58,23 +58,29 @@ Projetos e exercícios para praticar lógica de programação.
 
 ---
 
-## 📊 GitHub
+📊 Minhas estatísticas
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KevenCodes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=KevenCodes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenCodes&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevenCodes&layout=compact&theme=tokyonight&hide_border=true&langs_count=6">
 
 </div>
 
-<br>
-
-### 🟣 Contribuições
+📈 Atividade no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevenCodes&theme=tokyo-night&hide_border=true&area=true" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KevenCodes&theme=tokyo-night&hide_border=true&area=true">
+
+</div>
+
+🔥 Minhas contribuições
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=KevenCodes&theme=tokyonight&hide_border=true">
 
 </div>
 
