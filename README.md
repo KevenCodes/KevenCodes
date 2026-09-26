@@ -58,7 +58,7 @@ Projetos e exercícios para praticar lógica de programação.
 
 ---
 
-🔥 Minhas contribuições
+## 🔥 Minhas contribuições:
 
 <div align="center">
 
