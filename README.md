@@ -4,7 +4,7 @@
 
 ### 🎓 Estudante | 💻 Desenvolvedor em aprendizado
 
-Sou estudante de desenvolvimento de sistemas pelo IF, estou no segundo ano do ensino médio.
+Sou estudante de desenvolvimento de sistemas pelo IF, estou no  2º ano do ensino médio.
 
 </div>
 
@@ -22,7 +22,7 @@ Sou estudante de desenvolvimento de sistemas pelo IF, estou no segundo ano do en
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white">
 
 </div>
 
@@ -42,9 +42,8 @@ Sou estudante de desenvolvimento de sistemas pelo IF, estou no segundo ano do en
 
 ## 💻 Projetos
 
-### 🏨 Sistema de Hotel
-Sistema desenvolvido em Java com programação orientada a objetos
-e banco de dados MySQL.
+### ⛏️ Projetos de POO
+Projetos/Tarefas utilizando Java para fixação do conteúdo.
 
 ### 🌐 Projetos Web
 Projetos utilizando HTML, CSS e JavaScript para criação de páginas
