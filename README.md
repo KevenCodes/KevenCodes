@@ -1,17 +1,16 @@
 <div align="center">
 
-# 👨‍💻 Olá, eu sou Keven!
+# 👨‍💻 Hey, eu sou Keven Padilha!
 
 ### 🎓 Estudante | 💻 Desenvolvedor em aprendizado
 
-Sou estudante de programação e estou sempre buscando aprender
-novas tecnologias e desenvolver meus conhecimentos.
+Sou estudante de desenvolvimento de sistemas pelo IF, estou no segundo ano do ensino médio.
 
 </div>
 
 ---
 
-## 🚀 Tecnologias que estudo
+## 👾 Tecnologias que estudo
 
 <div align="center">
 
@@ -23,7 +22,7 @@ novas tecnologias e desenvolver meus conhecimentos.
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white">
 
 </div>
 
@@ -67,6 +66,6 @@ Projetos e exercícios para praticar lógica de programação.
 
 <div align="center">
 
-### ⭐ Obrigado por visitar meu perfil!
+### 🤘 Obrigado pela visita!
 
 </div>
